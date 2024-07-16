@@ -1,0 +1,1 @@
+{"Subscription 1": [{"name": "User 1", "roles": ["Admin"], "resources": ["Resource A"]}, {"name": "User 2", "roles": ["User"], "resources": ["Resource B"]}], "New Subscription": []}
